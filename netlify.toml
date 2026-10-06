@@ -1,0 +1,5 @@
+[build]
+  # The site lives at the repository root, so build from (and publish) the root.
+  # This overrides the incorrect "Base directory" value set in the Netlify UI.
+  base = "."
+  publish = "."
