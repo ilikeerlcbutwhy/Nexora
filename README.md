@@ -1,3 +1,3 @@
-# Nexora
+# Lurono 
 
-## This is the offical Nexora Website!
+## This is the offical Lurono Website!
